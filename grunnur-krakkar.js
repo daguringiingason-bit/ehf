@@ -690,9 +690,9 @@ window.MONNY.courses.push({
    [
     "Hve hár er persónuafsláttur á mánuði árið 2026?",
     [
-     "72.492 kr.",
-     "11,5% af launum",
      "300.000 kr.",
+     "11,5% af launum",
+     "72.492 kr.",
      "31,49%"
     ]
    ],
@@ -700,34 +700,34 @@ window.MONNY.courses.push({
     "Þú ert 14 ára og vinnur þér inn 420.000 kr. á árinu. Hve mikinn skatt greiðirðu?",
     [
      "0 kr.",
-     "7.200 kr.",
      "25.200 kr.",
+     "7.200 kr.",
      "132.258 kr."
     ]
    ],
    [
     "Hve stórt hlutfall launa greiðir launþegi í lífeyrissjóð?",
     [
+     "4%",
      "1%",
-     "11,5%",
      "31,49%",
-     "4%"
+     "11,5%"
     ]
    ],
    [
     "Samkvæmt 72-reglunni, um hve langan tíma tekur að tvöfalda peninga á 6% ársvöxtum?",
     [
-     "12 ár",
      "18 ár",
      "72 ár",
-     "6 ár"
+     "6 ár",
+     "12 ár"
     ]
    ],
    [
     "Vextir á reikningnum þínum eru 5% og verðbólgan er 4%. Hverjir eru raunvextirnir um það bil?",
     [
-     "5%",
      "9%",
+     "5%",
      "−1%",
      "1%"
     ]
@@ -736,34 +736,34 @@ window.MONNY.courses.push({
     "Hvað sýnir ÁHK?",
     [
      "Vexti á sparireikningi",
-     "Mánaðargreiðslu af láni",
      "Allan kostnað láns sem árlegt hlutfall",
+     "Mánaðargreiðslu af láni",
      "Hve mikið þú mátt taka að láni"
     ]
    ],
    [
     "Matvara kostar 1.110 kr. með 11% VSK. Hve mikið af verðinu er VSK?",
     [
-     "11 kr.",
      "111 kr.",
+     "122 kr.",
      "110 kr.",
-     "122 kr."
+     "11 kr."
     ]
    ],
    [
     "Samkvæmt ríkisreikningsgögnum 2025, í hvaða flokk fer stærsti hluti útgjalda ríkisins?",
     [
      "Samgöngur",
+     "Menntun",
      "Utanríkismál",
-     "Heilbrigðismál",
-     "Menntun"
+     "Heilbrigðismál"
     ]
    ],
    [
     "Hver rekur grunnskólana á Íslandi?",
     [
-     "Ríkið",
      "Lífeyrissjóðirnir",
+     "Ríkið",
      "Skatturinn",
      "Sveitarfélögin"
     ]
@@ -771,45 +771,45 @@ window.MONNY.courses.push({
    [
     "Þú selur vöru á 1.500 kr. Hún kostar 600 kr. að búa til og fastur kostnaður er 9.000 kr. Hve margar þarftu að selja til að ná núllpunkti?",
     [
-     "6",
-     "15",
      "9.000",
-     "10"
+     "10",
+     "15",
+     "6"
     ]
    ],
    [
     "Hvað er öruggt merki um svik?",
     [
      "Óþekkt símanúmer",
-     "Stafsetningarvillur",
      "Auglýsing",
+     "Stafsetningarvillur",
      "Beiðni um að samþykkja innskráningu sem þú baðst ekki um"
     ]
    ],
    [
     "Hve marga daga hefurðu almennt til að hætta við netkaup?",
     [
-     "14",
-     "7",
+     "30",
      "3",
-     "30"
+     "14",
+     "7"
     ]
    ],
    [
     "Vara A kostar 600 kr. fyrir 400 g og vara B 1.000 kr. fyrir 800 g. Hvor er ódýrari á kíló?",
     [
+     "A",
      "Ekki hægt að segja",
      "B",
-     "A",
      "Jafndýrar"
     ]
    ],
    [
     "Þú kaupir fyrir 50 evrur á genginu 140 kr. með 2% álagi. Hvað kostar það?",
     [
-     "7.140 kr.",
-     "7.280 kr.",
      "7.500 kr.",
+     "7.280 kr.",
+     "7.140 kr.",
      "7.000 kr."
     ]
    ],
@@ -817,99 +817,99 @@ window.MONNY.courses.push({
     "Á hvaða gjaldmiðli er best að greiða þegar posi erlendis býður val?",
     [
      "Dollurum",
-     "Skiptir ekki máli",
      "Krónum",
+     "Skiptir ekki máli",
      "Gjaldmiðli landsins"
     ]
    ],
    [
     "Hvað er peningaburðardýr?",
     [
-     "Bankastarfsmaður",
+     "Öryggisvörður",
      "Sá sem lætur nota reikninginn sinn til að færa illa fengið fé",
-     "Sá sem sparar í reiðufé",
-     "Öryggisvörður"
+     "Bankastarfsmaður",
+     "Sá sem sparar í reiðufé"
     ]
    ],
    [
     "Hver er staðan í lok mánaðar ef þú byrjar með 10.000 kr., færð 30.000 kr. og eyðir 25.000 kr.?",
     [
-     "5.000 kr.",
+     "15.000 kr.",
      "25.000 kr.",
      "65.000 kr.",
-     "15.000 kr."
+     "5.000 kr."
     ]
    ],
    [
     "Hvað þýðir að krónan styrkist?",
     [
      "Útlönd verða ódýrari",
-     "Verð á Íslandi hækkar",
+     "Útlönd verða dýrari",
      "Vextir hækka",
-     "Útlönd verða dýrari"
+     "Verð á Íslandi hækkar"
     ]
    ],
    [
     "Hver er besta fyrsta viðbrögðin ef þú hefur gefið upp kortanúmer á falskri síðu?",
     [
+     "Bíða",
      "Hafa strax samband við bankann",
-     "Skipta um síma",
      "Eyða appinu",
-     "Bíða"
+     "Skipta um síma"
     ]
    ],
    [
     "„3 fyrir 2“ sparar peninga ef:",
     [
-     "Varan er dýr",
      "Þú hefðir hvort sem er keypt þrjú",
-     "Alltaf",
-     "Það er síðasti dagur tilboðsins"
+     "Það er síðasti dagur tilboðsins",
+     "Varan er dýr",
+     "Alltaf"
     ]
    ],
    [
     "Þú ert 15 ára og vinnur þér inn 250.000 kr. á árinu. Hve mikinn skatt greiðirðu?",
     [
-     "6.000 kr.",
-     "0 kr.",
      "78.725 kr.",
-     "15.000 kr."
+     "15.000 kr.",
+     "6.000 kr.",
+     "0 kr."
     ]
    ],
    [
     "Hvaða reikningur er ætlaður til daglegra greiðslna?",
     [
-     "Bundinn reikningur",
      "Veltureikningur",
-     "Séreign",
-     "Lífeyrissjóður"
+     "Bundinn reikningur",
+     "Lífeyrissjóður",
+     "Séreign"
     ]
    ],
    [
     "Sími bilar eftir 10 mánuði vegna galla. Hvað áttu almennt rétt á?",
     [
      "Bara afslætti",
-     "Bara ef þú keyptir aukatryggingu",
+     "Engu",
      "Úrbótum",
-     "Engu"
+     "Bara ef þú keyptir aukatryggingu"
     ]
    ],
    [
     "Þú leggur 100.000 kr. inn á 5% vexti í 2 ár. Hver er lokaupphæðin?",
     [
+     "125.000 kr.",
      "110.000 kr.",
      "110.250 kr.",
-     "125.000 kr.",
      "105.000 kr."
     ]
    ],
    [
     "Hvað er ÁHK?",
     [
-     "Ávöxtun hlutabréfa",
      "Árlegur hámarksskattur",
-     "Afsláttur hjá kortafyrirtæki",
-     "Árleg hlutfallstala kostnaðar"
+     "Árleg hlutfallstala kostnaðar",
+     "Ávöxtun hlutabréfa",
+     "Afsláttur hjá kortafyrirtæki"
     ]
    ]
   ],

@@ -645,9 +645,9 @@ window.MONNY.courses.push({
    [
     "Áskrift kostar 3.990 kr. á mánuði. Hvað kostar hún á ári?",
     [
-     "47.880 kr.",
      "3.990 kr.",
      "39.900 kr.",
+     "47.880 kr.",
      "59.850 kr."
     ]
    ],
@@ -656,17 +656,17 @@ window.MONNY.courses.push({
     [
      "Engin þörf ef maður er með kreditkort",
      "10% af árstekjum",
-     "Ein mánaðarlaun",
-     "3–6 mánaða nauðsynleg útgjöld"
+     "3–6 mánaða nauðsynleg útgjöld",
+     "Ein mánaðarlaun"
     ]
    ],
    [
     "Hvenær er kreditkort vaxtalaust?",
     [
-     "Aldrei",
      "Alltaf",
+     "Ef greidd er lágmarksgreiðsla",
      "Ef reikningurinn er greiddur að fullu á gjalddaga",
-     "Ef greidd er lágmarksgreiðsla"
+     "Aldrei"
     ]
    ],
    [
@@ -674,51 +674,51 @@ window.MONNY.courses.push({
     [
      "Greiðslan hækkar og vextirnir lækka",
      "Ekkert breytist",
-     "Bæði greiðslan og vextirnir lækka",
-     "Greiðslan lækkar en heildarvextirnir hækka"
+     "Greiðslan lækkar en heildarvextirnir hækka",
+     "Bæði greiðslan og vextirnir lækka"
     ]
    ],
    [
     "Hvað einkennir verðtryggt lán?",
     [
-     "Það er ekki hægt að greiða það upp",
-     "Vextirnir eru alltaf hærri en á óverðtryggðu",
      "Höfuðstóllinn hækkar með verðbólgu",
-     "Greiðslan er föst í krónum allan tímann"
+     "Vextirnir eru alltaf hærri en á óverðtryggðu",
+     "Greiðslan er föst í krónum allan tímann",
+     "Það er ekki hægt að greiða það upp"
     ]
    ],
    [
     "Samkvæmt snjóflóðsaðferðinni, hvaða skuld er greidd fyrst niður?",
     [
-     "Sú elsta",
-     "Sú stærsta",
      "Sú minnsta",
-     "Sú með hæstu vextina"
+     "Sú elsta",
+     "Sú með hæstu vextina",
+     "Sú stærsta"
     ]
    ],
    [
     "Þú skuldar 300.000 kr. á 12% ársvöxtum. Um það bil hve mikið greiðirðu í vexti á mánuði?",
     [
-     "12.000 kr.",
      "300 kr.",
      "3.000 kr.",
-     "36.000 kr."
+     "36.000 kr.",
+     "12.000 kr."
     ]
    ],
    [
     "Hve hátt mótframlag greiðir vinnuveitandi í séreign samkvæmt flestum kjarasamningum?",
     [
      "11,5%",
-     "2%",
+     "4%",
      "0%",
-     "4%"
+     "2%"
     ]
    ],
    [
     "Hvert getur fólk í greiðsluerfiðleikum leitað eftir ókeypis ráðgjöf?",
     [
-     "Til Umboðsmanns skuldara",
      "Til smálánafyrirtækja",
+     "Til Umboðsmanns skuldara",
      "Hvergi",
      "Til Creditinfo"
     ]
@@ -726,18 +726,18 @@ window.MONNY.courses.push({
    [
     "Hvað er best að bera saman þegar valið er á milli tveggja lána?",
     [
-     "Lántökugjaldið",
-     "Mánaðargreiðsluna eina",
      "ÁHK og heildarupphæð sem greidd er",
-     "Nafn lánveitandans"
+     "Lántökugjaldið",
+     "Nafn lánveitandans",
+     "Mánaðargreiðsluna eina"
     ]
    ],
    [
     "Hvað er bakreikningur?",
     [
-     "Endurgreiðsla",
-     "Skuld sem kemur í ljós við álagningu",
      "Lánstilboð",
+     "Skuld sem kemur í ljós við álagningu",
+     "Endurgreiðsla",
      "Kortareikningur"
     ]
    ],
@@ -746,8 +746,8 @@ window.MONNY.courses.push({
     [
      "Þú færð endurgreiðslu",
      "Ekkert",
-     "Afslátturinn tvöfaldast löglega",
-     "Þú færð bakreikning"
+     "Þú færð bakreikning",
+     "Afslátturinn tvöfaldast löglega"
     ]
    ],
    [
@@ -762,37 +762,37 @@ window.MONNY.courses.push({
    [
     "Hvaða trygging er lögbundin fyrir bíleigendur?",
     [
-     "Líftrygging",
      "Ábyrgðartrygging ökutækja",
      "Ferðatrygging",
+     "Líftrygging",
      "Kaskó"
     ]
    ],
    [
     "Hvað gerir dreifing í fjárfestingum?",
     [
-     "Tryggir hagnað",
      "Lækkar skatta",
-     "Minnkar áhættu af einu fyrirtæki",
-     "Hækkar ávöxtun alltaf"
+     "Hækkar ávöxtun alltaf",
+     "Tryggir hagnað",
+     "Minnkar áhættu af einu fyrirtæki"
     ]
    ],
    [
     "Hver er fjármagnstekjuskattur á Íslandi?",
     [
-     "31,49%",
      "15%",
-     "22%",
-     "10%"
+     "10%",
+     "31,49%",
+     "22%"
     ]
    ],
    [
     "Hvað er skynsamlegast fyrir langtímafjárfesti þegar markaður fellur tímabundið?",
     [
-     "Kaupa eitt hlutabréf",
-     "Taka lán",
      "Oft að halda ró sinni og selja ekki",
-     "Selja allt strax"
+     "Kaupa eitt hlutabréf",
+     "Selja allt strax",
+     "Taka lán"
     ]
    ],
    [
@@ -800,34 +800,34 @@ window.MONNY.courses.push({
     [
      "43% á ári",
      "12% á ári",
-     "3% á ári",
-     "36% á ári"
+     "36% á ári",
+     "3% á ári"
     ]
    ],
    [
     "Hvað á að gera ef „bankinn“ hringir og biður þig að samþykkja aðgerð í símanum?",
     [
      "Leggja á og hringja í þekkt númer bankans",
+     "Samþykkja",
      "Gefa upp PIN",
-     "Biðja um tölvupóst",
-     "Samþykkja"
+     "Biðja um tölvupóst"
     ]
    ],
    [
     "Hvað kostar 1,5% árlegur kostnaður af 1 m.kr. sem vaxa um 6% í 30 ár, um það bil?",
     [
-     "2 m.kr.",
-     "450.000 kr.",
      "6 m.kr.",
+     "450.000 kr.",
+     "2 m.kr.",
      "45.000 kr."
     ]
    ],
    [
     "Hvað er ábyrgðarmaður?",
     [
-     "Sá sem ber ábyrgð á láni ef lántaki greiðir ekki",
      "Starfsmaður bankans",
      "Endurskoðandi",
+     "Sá sem ber ábyrgð á láni ef lántaki greiðir ekki",
      "Erfingi"
     ]
    ],
@@ -835,36 +835,36 @@ window.MONNY.courses.push({
     "Hvað þýðir sjálfsábyrgð?",
     [
      "Hámarksbætur",
-     "Tryggingafélagið",
      "Hluti tjóns sem þú greiðir sjálf/ur",
-     "Iðgjaldið"
+     "Iðgjaldið",
+     "Tryggingafélagið"
     ]
    ],
    [
     "Hvenær eru flestar upplýsingar á skattframtalinu settar inn?",
     [
-     "Endurskoðandi skráir",
-     "Þær eru forskráðar",
+     "Bankinn skráir",
      "Þú slærð allt inn",
-     "Bankinn skráir"
+     "Endurskoðandi skráir",
+     "Þær eru forskráðar"
     ]
    ],
    [
     "Hvað er vísitölusjóður?",
     [
-     "Sjóður sem fylgir markaðnum í heild",
-     "Sparireikningur",
+     "Lán",
      "Sjóður sem velur fá bréf",
-     "Lán"
+     "Sjóður sem fylgir markaðnum í heild",
+     "Sparireikningur"
     ]
    ],
    [
     "Hvort hækkar heildarkostnað láns: að lengja lánstíma eða stytta hann?",
     [
-     "Hvorugt",
-     "Fer eftir bankanum",
      "Lengja",
-     "Stytta"
+     "Hvorugt",
+     "Stytta",
+     "Fer eftir bankanum"
     ]
    ]
   ],

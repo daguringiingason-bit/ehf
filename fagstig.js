@@ -676,18 +676,18 @@ window.MONNY.courses.push({
     "Kennitala félags byrjar á 621104. Hvenær var það stofnað?",
     [
      "6. desember 2011",
-     "62. nóvember 2004",
      "4. nóvember 2021",
+     "62. nóvember 2004",
      "22. nóvember 2004"
     ]
    ],
    [
     "Eignir eru 500 m.kr. og skuldir 350 m.kr. Hvert er eiginfjárhlutfallið?",
     [
-     "30%",
      "70%",
-     "150%",
-     "43%"
+     "30%",
+     "43%",
+     "150%"
     ]
    ],
    [
@@ -703,54 +703,54 @@ window.MONNY.courses.push({
     "Hagnaður er 20, afskriftir 5, birgðir aukast um 10 og viðskiptakröfur um 5. Hvert er handbært fé frá rekstri?",
     [
      "40",
-     "30",
      "20",
+     "30",
      "10"
     ]
    ],
    [
     "Veltufjármunir eru 90 og skammtímaskuldir 60. Hvert er veltufjárhlutfallið?",
     [
-     "0,67",
+     "150",
      "30",
      "1,5",
-     "150"
+     "0,67"
     ]
    ],
    [
     "Fastur kostnaður er 3 m.kr. á mánuði og framlegð á einingu er 1.500 kr. Hver er núllpunkturinn á mánuði?",
     [
-     "2.000 einingar",
-     "200 einingar",
+     "20.000 einingar",
      "4.500 einingar",
-     "20.000 einingar"
+     "200 einingar",
+     "2.000 einingar"
     ]
    ],
    [
     "Fjárfestir greiðir 30 m.kr. fyrir 25% hlut. Hvert er virði félagsins eftir fjárfestinguna?",
     [
+     "7,5 m.kr.",
      "120 m.kr.",
-     "90 m.kr.",
      "55 m.kr.",
-     "7,5 m.kr."
+     "90 m.kr."
     ]
    ],
    [
     "Starfsmaður er á 800.000 kr. heildarlaunum og launatengd gjöld eru 22%. Hver er árlegur kostnaður?",
     [
-     "17,6 m.kr.",
-     "10,6 m.kr.",
      "9,6 m.kr.",
+     "10,6 m.kr.",
+     "17,6 m.kr.",
      "11,7 m.kr."
     ]
    ],
    [
     "EBITDA er 40 m.kr., margfeldi 6 og nettóskuldir 60 m.kr. Hvert er virði hlutafjár?",
     [
+     "180 m.kr.",
      "240 m.kr.",
-     "100 m.kr.",
      "300 m.kr.",
-     "180 m.kr."
+     "100 m.kr."
     ]
    ],
    [
@@ -758,134 +758,134 @@ window.MONNY.courses.push({
     [
      "27",
      "100",
-     "365",
-     "73"
+     "73",
+     "365"
     ]
    ],
    [
     "Félag tekur lán og peningarnir fara á bankareikning. Hvað fer í kredit?",
     [
-     "Tekjur",
      "Gjöld",
      "Banki",
+     "Tekjur",
      "Lán"
     ]
    ],
    [
     "Hvað fer í debet þegar félagið greiðir leigu?",
     [
+     "Eigið fé",
      "Leigukostnaður",
-     "Skuldir",
      "Banki",
-     "Eigið fé"
+     "Skuldir"
     ]
    ],
    [
     "Hve lengi þarf að varðveita bókhaldsgögn?",
     [
-     "3 ár",
-     "7 ár",
+     "Ótímabundið",
      "1 ár",
-     "Ótímabundið"
+     "7 ár",
+     "3 ár"
     ]
    ],
    [
     "Sala er 2.480.000 kr. og innkaup 620.000 kr., allt með 24% VSK. Hve mikinn VSK þarf að greiða?",
     [
      "446.400 kr.",
-     "360.000 kr.",
      "480.000 kr.",
+     "360.000 kr.",
      "595.200 kr."
     ]
    ],
    [
     "Hvað er útskattur?",
     [
-     "Tekjuskattur",
-     "VSK af innkaupum",
      "Útsvar",
-     "VSK af sölu"
+     "VSK af sölu",
+     "Tekjuskattur",
+     "VSK af innkaupum"
     ]
    ],
    [
     "Tekjur 5.000 kr. á mánuði, framlegð 60%, brottfall 3%. Hvert er LTV?",
     [
-     "100.000 kr.",
+     "166.667 kr.",
      "150.000 kr.",
      "30.000 kr.",
-     "166.667 kr."
+     "100.000 kr."
     ]
    ],
    [
     "Hvaða viðmið er algengt fyrir LTV ÷ CAC?",
     [
-     "Minnst 1",
+     "Minnst 3",
      "Undir 1",
-     "Minnst 10",
-     "Minnst 3"
+     "Minnst 1",
+     "Minnst 10"
     ]
    ],
    [
     "Tekjur 400, vörunotkun 240. Hvert er framlegðarhlutfallið?",
     [
+     "24%",
      "40%",
      "60%",
-     "24%",
      "160%"
     ]
    ],
    [
     "Hvað er ÍSAT?",
     [
-     "Skattflokkur",
-     "Atvinnugreinaflokkun",
      "Endurskoðunarstaðall",
-     "Lánshæfismat"
+     "Lánshæfismat",
+     "Atvinnugreinaflokkun",
+     "Skattflokkur"
     ]
    ],
    [
     "Hvers vegna eru afskriftir lagðar við hagnað í sjóðstreymi?",
     [
+     "Þær eru skattur",
      "Engir peningar fóru út vegna þeirra á árinu",
      "Þær eru vextir",
-     "Þær eru tekjur",
-     "Þær eru skattur"
+     "Þær eru tekjur"
     ]
    ],
    [
     "Hvað þýðir að ábyrgð í ehf. sé takmörkuð?",
     [
+     "Félagið greiðir ekki skatt",
      "Stjórnin ber enga ábyrgð",
      "Eigendur tapa í versta falli hlutafénu",
-     "Lán eru bönnuð",
-     "Félagið greiðir ekki skatt"
+     "Lán eru bönnuð"
     ]
    ],
    [
     "Félag hefur eigið fé 30 og eignir 120. Hvert er eiginfjárhlutfallið?",
     [
      "40%",
-     "30%",
+     "25%",
      "400%",
-     "25%"
+     "30%"
     ]
    ],
    [
     "Hvaða kennitala sýnir hvort félag ráði við reikninga næstu 12 mánaða?",
     [
-     "Veltufjárhlutfall",
+     "EBITDA",
      "Hagnaðarhlutfall",
      "Arðsemi eigin fjár",
-     "EBITDA"
+     "Veltufjárhlutfall"
     ]
    ],
    [
     "Hvað hækkar yfirleitt margfeldi í verðmati?",
     [
+     "Háð stofnanda",
      "Einn stór viðskiptavinur",
      "Endurteknar tekjur",
-     "Óreiða í bókhaldi",
-     "Háð stofnanda"
+     "Óreiða í bókhaldi"
     ]
    ],
    [

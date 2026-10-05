@@ -563,54 +563,54 @@ window.MONNY.courses.push({
    [
     "Hagnaðarhlutfall er 5%, eignavelta 2,0 og skuldsetningarmargfaldari 2,0. Hver er arðsemi eigin fjár?",
     [
-     "20%",
      "9%",
      "10%",
-     "40%"
+     "40%",
+     "20%"
     ]
    ],
    [
     "DSO er 40 dagar, DIO 50 dagar og DPO 30 dagar. Hver er veltufjárhringrásin?",
     [
-     "120 dagar",
-     "20 dagar",
      "90 dagar",
+     "20 dagar",
+     "120 dagar",
      "60 dagar"
     ]
    ],
    [
     "Hvert er núvirði 500.000 kr. sem greiðast eftir 2 ár, með 10% ávöxtunarkröfu?",
     [
+     "450.000 kr.",
      "454.545 kr.",
      "400.000 kr.",
-     "450.000 kr.",
      "413.223 kr."
     ]
    ],
    [
     "Frjálst sjóðstreymi næsta árs er 10, ávöxtunarkrafan 10% og langtímavöxtur 2%. Hvert er lokavirðið samkvæmt Gordon-líkaninu?",
     [
-     "100",
+     "125",
      "102",
-     "500",
-     "125"
+     "100",
+     "500"
     ]
    ],
    [
     "Eigið fé og skuldir eru jafnstór. Krafa á eigið fé er 12%, vextir 6% og skatthlutfall 20%. Hver er WACC?",
     [
-     "9,0%",
-     "8,4%",
+     "9,6%",
      "18%",
-     "9,6%"
+     "8,4%",
+     "9,0%"
     ]
    ],
    [
     "Fjárfestir greiðir 50 m.kr. fyrir 20% hlut. Hvert er pre-money virðið?",
     [
-     "250 m.kr.",
      "300 m.kr.",
      "200 m.kr.",
+     "250 m.kr.",
      "40 m.kr."
     ]
    ],
@@ -618,18 +618,18 @@ window.MONNY.courses.push({
     "Fjárfestir á 20% eftir að hafa fjárfest 50 m.kr. með 1× forgangi án þátttöku. Félagið selst á 500 m.kr. Hve mikið fær hann?",
     [
      "400 m.kr.",
-     "100 m.kr.",
      "150 m.kr.",
-     "50 m.kr."
+     "50 m.kr.",
+     "100 m.kr."
     ]
    ],
    [
     "Hvað af eftirfarandi er dæmigerð leiðrétting sem hækkar EBITDA?",
     [
-     "Leiga undir markaðsverði",
      "Einskiptistekjur af eignasölu",
+     "Einskiptiskostnaður vegna málaferla",
      "Eigandi á lægri launum en markaðslaunum",
-     "Einskiptiskostnaður vegna málaferla"
+     "Leiga undir markaðsverði"
     ]
    ],
    [
@@ -644,27 +644,27 @@ window.MONNY.courses.push({
    [
     "Hvað gerist almennt við kröfu á eigið fé þegar skuldsetning félags eykst?",
     [
-     "Hún verður jöfn vöxtum á skuldum",
      "Hún breytist ekki",
+     "Hún hækkar",
      "Hún lækkar",
-     "Hún hækkar"
+     "Hún verður jöfn vöxtum á skuldum"
     ]
    ],
    [
     "Sviðsmyndir: 25% × 200, 50% × 120, 25% × 40. Hvert er vænt virði?",
     [
+     "200",
      "110",
      "140",
-     "120",
-     "200"
+     "120"
     ]
    ],
    [
     "Hvað sýnir næmnigreining?",
     [
-     "Skattbyrði",
-     "Hvernig niðurstaða breytist með forsendum",
      "Söguleg gögn",
+     "Hvernig niðurstaða breytist með forsendum",
+     "Skattbyrði",
      "Hluthafa"
     ]
    ],
@@ -672,16 +672,16 @@ window.MONNY.courses.push({
     "EBITDA 20 m.kr. Sambærileg félög á 4×, 6× og 9×. Hvert er heildarvirði miðað við miðgildi?",
     [
      "80 m.kr.",
+     "180 m.kr.",
      "120 m.kr.",
-     "127 m.kr.",
-     "180 m.kr."
+     "127 m.kr."
     ]
    ],
    [
     "Hvers vegna er afsláttur oft beittur á lítil óskráð félög?",
     [
-     "Lög krefjast þess",
      "Lægri laun",
+     "Lög krefjast þess",
      "Minni seljanleiki og meiri áhætta",
      "Lægri skattar"
     ]
@@ -689,10 +689,10 @@ window.MONNY.courses.push({
    [
     "Útflutningsfélag með tekjur í evrum og kostnað í krónum. Hvað gerist þegar krónan styrkist?",
     [
-     "Ekkert",
-     "Hagnaður minnkar",
      "Kostnaður lækkar",
-     "Hagnaður eykst"
+     "Hagnaður eykst",
+     "Hagnaður minnkar",
+     "Ekkert"
     ]
    ],
    [
@@ -707,62 +707,62 @@ window.MONNY.courses.push({
    [
     "Hvað er ódýrasta vörnin gegn gengisáhættu?",
     [
-     "Valréttir",
+     "Engin",
      "Náttúruleg vörn",
      "Framvirkir samningar",
-     "Engin"
+     "Valréttir"
     ]
    ],
    [
     "Hvaða þáttur í DuPont mælir nýtingu eigna?",
     [
-     "Hagnaðarhlutfall",
-     "Skuldsetningarmargfaldari",
+     "Eignavelta",
      "WACC",
-     "Eignavelta"
+     "Hagnaðarhlutfall",
+     "Skuldsetningarmargfaldari"
     ]
    ],
    [
     "Hvað þýðir CCC upp á −10 daga?",
     [
-     "Viðskiptavinir greiða áður en félagið greiðir birgjum",
      "Birgðir eru neikvæðar",
+     "Villa",
      "Félagið skuldar",
-     "Villa"
+     "Viðskiptavinir greiða áður en félagið greiðir birgjum"
     ]
    ],
    [
     "Pre-money 300, fjárfesting 100. Hvað á fjárfestirinn?",
     [
-     "25%",
-     "40%",
      "33%",
-     "20%"
+     "40%",
+     "20%",
+     "25%"
     ]
    ],
    [
     "Hvað er earn-out?",
     [
-     "Hluti kaupverðs sem greiðist ef árangur næst",
-     "Bónus",
+     "Arður",
      "Afskrift",
-     "Arður"
+     "Hluti kaupverðs sem greiðist ef árangur næst",
+     "Bónus"
     ]
    ],
    [
     "Hvaða margfaldari verður fyrir áhrifum af skuldsetningu?",
     [
-     "EV/EBITDA",
+     "EV/tekjur",
      "Enginn",
-     "V/H",
-     "EV/tekjur"
+     "EV/EBITDA",
+     "V/H"
     ]
    ],
    [
     "Hvert er núvirði 1.210.000 kr. eftir 2 ár á 10%?",
     [
-     "990.000 kr.",
      "1.000.000 kr.",
+     "990.000 kr.",
      "1.010.000 kr.",
      "1.100.000 kr."
     ]
@@ -770,10 +770,10 @@ window.MONNY.courses.push({
    [
     "Hvað gerist við kröfu á eigið fé ef beta hækkar?",
     [
-     "Hún verður núll",
-     "Hún lækkar",
      "Ekkert",
-     "Hún hækkar"
+     "Hún hækkar",
+     "Hún verður núll",
+     "Hún lækkar"
     ]
    ],
    [

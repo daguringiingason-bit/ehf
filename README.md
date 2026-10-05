@@ -34,16 +34,16 @@ Opnaðu svo http://localhost:8000. Án Supabase keyrir vefurinn í **prufuham**:
 Supabase sér um innskráningu með tölvupósti og geymir prófíla, framvindu, próftilraunir og skjöl. Ókeypis áskrift dugar til að byrja.
 
 1. Stofnaðu verkefni á [supabase.com](https://supabase.com).
-2. Opnaðu **SQL Editor** og keyrðu `supabase/schema.sql`.
-3. Keyrðu svo `supabase/exam_keys.sql`. Hún inniheldur svarlykla prófanna.
+2. Opnaðu **SQL Editor** og keyrðu `schema.sql`.
+3. Keyrðu svo `exam_keys.sql`. Hún inniheldur svarlykla prófanna.
 4. Í **Authentication → URL Configuration**: settu GitHub Pages slóðina sem **Site URL** og bættu henni við **Redirect URLs**. Bættu líka við `http://localhost:8000` ef þú prófar heima.
-5. Í **Project Settings → API**: afritaðu **Project URL** og **anon public** lykilinn í `js/config.js`.
+5. Í **Project Settings → API**: afritaðu **Project URL** og **anon public** lykilinn í `config.js`.
 
 Anon-lykillinn má vera opinber. Aðgangsreglurnar (Row Level Security) í `schema.sql` tryggja að hver notandi sjái aðeins sín eigin gögn.
 
 ### Um svarlyklana
 
-Farið er yfir lokaprófin á þjóninum, í fallinu `submit_exam`. Svarlyklarnir eru í töflu sem enginn notandi getur lesið, og þess vegna er ekki hægt að svindla með því að skoða kóðann. Skráin `supabase/exam_keys.sql` er í `.gitignore` svo hún fari ekki á GitHub. Geymdu afrit af henni á öruggum stað.
+Farið er yfir lokaprófin á þjóninum, í fallinu `submit_exam`. Svarlyklarnir eru í töflu sem enginn notandi getur lesið, og þess vegna er ekki hægt að svindla með því að skoða kóðann. Skráin `exam_keys.sql` er í `.gitignore` svo hún fari ekki á GitHub. Geymdu afrit af henni á öruggum stað.
 
 Eftir fallið próf þarf að bíða í eina klukkustund áður en reynt er aftur. Breyttu `v_wait` í `schema.sql` til að breyta því.
 
@@ -55,20 +55,23 @@ Innskráningartengillinn þarf að vera opnaður í sama vafra og hann var beði
 
 ## Uppbygging
 
+Allar skrár eru í rót repository:
+
 ```
-index.html                    Síðan sjálf
-css/style.css                 Útlit, ljóst og dökkt þema, prentútlit skjala
-js/config.js                  Supabase-stillingar
-js/app.js                     Leiðsögn, innskráning, framvinda, próf og skjöl
-js/tools.js                   Allar reiknivélar
-js/courses/*.js               Efni hvers námskeiðs
-supabase/schema.sql           Töflur, aðgangsreglur og föll
-supabase/exam_keys.sql        Svarlyklar (ekki á GitHub)
+index.html             Síðan sjálf
+style.css              Útlit, ljóst og dökkt þema, prentútlit skjala
+config.js              Supabase-stillingar
+app.js                 Leiðsögn, innskráning, framvinda, próf og skjöl
+tools.js               Allar reiknivélar
+grunnur.js o.fl.       Efni hvers námskeiðs
+schema.sql             Töflur, aðgangsreglur og föll (keyrð í Supabase)
 ```
 
-Til að breyta efni kafla skaltu breyta viðeigandi skrá í `js/courses/`. Ef spurningum í lokaprófi er breytt þarf líka að uppfæra svarlykilinn í `exam_keys.sql` og keyra hana aftur. Svörin eru talin frá 0: fyrsti valkostur er 0, annar 1 o.s.frv. Fjöldi spurninga í hverju prófi og lágmarkseinkunn eru í dálkunum `ask` og `pass_mark` í töflunni `exam_keys`.
+Svarlyklarnir (exam_keys.sql) eru ALDREI settir á GitHub. Þeir eru keyrðir beint í Supabase.
 
-Æfingadæmin með breytilegum tölum eru skilgreind í `GENS` í `js/tools.js`.
+Til að breyta efni kafla skaltu breyta viðeigandi skrá í námskeiðsskránum. Ef spurningum í lokaprófi er breytt þarf líka að uppfæra svarlykilinn í `exam_keys.sql` og keyra hana aftur. Svörin eru talin frá 0: fyrsti valkostur er 0, annar 1 o.s.frv. Fjöldi spurninga í hverju prófi og lágmarkseinkunn eru í dálkunum `ask` og `pass_mark` í töflunni `exam_keys`.
+
+Æfingadæmin með breytilegum tölum eru skilgreind í `GENS` í `tools.js`.
 
 ### Ef eldri útgáfa hefur verið sett upp
 
@@ -76,8 +79,8 @@ Keyrðu `schema.sql` og `exam_keys.sql` aftur, því prófafallið og svarlyklar
 
 ## Uppfærslur sem þarf að muna
 
-- **Skattar.** Skatthlutföll, þrepamörk, persónuafsláttur og frítekjumark barna miðast við 2026 og eru í `TAX` efst í `js/tools.js`. Þau breytast um hver áramót.
-- **Ríkisreikningur.** Skipting útgjalda er úr ríkisreikningsgögnum 2025, flokkuð gróft eftir málefnasviðum. Hún er í `SPEND` og `INC` í `js/tools.js`.
+- **Skattar.** Skatthlutföll, þrepamörk, persónuafsláttur og frítekjumark barna miðast við 2026 og eru í `TAX` efst í `tools.js`. Þau breytast um hver áramót.
+- **Ríkisreikningur.** Skipting útgjalda er úr ríkisreikningsgögnum 2025, flokkuð gróft eftir málefnasviðum. Hún er í `SPEND` og `INC` í `tools.js`.
 
 ## Fyrirvari
 
