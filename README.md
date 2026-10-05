@@ -84,4 +84,4 @@ Keyrðu `schema.sql` og `exam_keys.sql` aftur, því prófafallið og svarlyklar
 
 ## Fyrirvari
 
-Monný er kennsluefni, ekki fjármálaráðgjöf. Fjöður ehf. er tilbúið félag.
+Monný er kennsluefni, ekki fjármálaráðgjöf. Fjöður ehf. er tilbúið félag. 
